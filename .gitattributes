@@ -1,2 +1,3 @@
 *.cpp linguist-detectable=false
-*.cmake linguist-detectable=false
+linux/flutter/*.cmake linguist-detectable=false
+windows/flutter/*.cmake linguist-detectable=false
